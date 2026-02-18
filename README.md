@@ -1,0 +1,1 @@
+Aqui como antes creamos una clase que implemente seralizable llamado empleado con sus atributos y despues creamos la clase que coja esas lineas y las escriba en un fichero binario, como el anterior ejercicio
